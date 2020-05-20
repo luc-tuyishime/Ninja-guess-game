@@ -1,0 +1,75 @@
+$black: #101010;
+$light: #f4f4f4;
+$grey: #42413e;
+$white: #ffffff;
+$primary: #282667;
+$secondary: #1843b8;
+$danger: #f53d3d;
+$success: #1c8a4a;
+$info: #1cbdee;
+$light-grey: #ccc;
+/* background anim colors */
+$anim-palette-1: #FFB426;
+$anim-palette-2: #0E152E;
+$anim-palette-3: #420D3B;
+$anim-palette-4: #1A1549;
+$anim-palette-5: #BD243E;
+
+
+/* colors */
+.black {
+  background: $black;
+}
+.text-black {
+  color: $black;
+}
+.light {
+  background: $light;
+}
+.text-light {
+  color: $light;
+}
+.grey {
+  background: $grey;
+}
+.text-grey {
+  color: $grey;
+}
+.white {
+  background: $white;
+}
+.text-white {
+  color: $white;
+}
+.primary {
+  background: $primary;
+}
+.text-primary {
+  color: $primary;
+}
+.secondary {
+  background: $secondary;
+}
+.text-secondary {
+  color: $secondary;
+}
+.danger {
+  background: $danger;
+}
+.text-danger {
+  color: $danger;
+}
+.success {
+  background: $success;
+}
+.text-success {
+  color: $success;
+}
+.info {
+  background: $info;
+}
+.text-info {
+  color: $info;
+}
+
+
